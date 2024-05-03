@@ -1,0 +1,4 @@
+.card.me-2:hover {
+    background-color: rgb(189, 233, 248);
+    cursor: pointer; /* Change cursor to pointer on hover */
+}
