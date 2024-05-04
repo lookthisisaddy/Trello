@@ -1,8 +1,24 @@
-# React + Vite
+# Summary
+A Trello frontend clone built using React, styled with Bootstrap and has drag-and-drop features thanks to react-beautiful-dnd. This platform enables the creation of task lists, facilitating efficient tracking in a user-friendly and intuitive UI.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Weblink: [Live Website] https://mytrelloapp.vercel.app/
 
-Currently, two official plugins are available:
+## Peek Inside:
+<img src="https://github.com/lookthisisaddy/Portfolio/blob/master/src/images/main.png" width=480/>
+<img src="https://github.com/lookthisisaddy/Portfolio/blob/master/src/images/addcard.png" width=480/>
+<img src="https://github.com/lookthisisaddy/Portfolio/blob/master/src/images/editcard.png" width=480/>
+<img src="https://github.com/lookthisisaddy/Portfolio/blob/master/src/images/dnd.png" width=480/>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- The state is maintained after refresh.
+- Form fields are validated appropriately.
+- Drag and drop functionality.
+- Order of the cards maintained.
+
+## Technologies Utilized
+- React.js
+- Bootstrap 5
+- HTML5 & CSS3
+- JavaScript
+- react-beautiful-dnd
+- Vercel

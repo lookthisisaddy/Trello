@@ -91,7 +91,6 @@ const Main = () => {
     if (modalData.editMode) {
       /* -------- Editing and moving the existing card --------- */
       // Update with changing the list
-      console.log(prevSelectedItemRef.current);
       if (
         prevSelectedItemRef.current &&
         prevSelectedItemRef.current !== modalData.selectedItem
