@@ -4,7 +4,10 @@ A Trello frontend clone built using React, styled with Bootstrap and has drag-an
 ### Weblink: [Live Website] https://mytrelloapp.vercel.app/
 
 ## Peek Inside:
-<img src="https://github.com/lookthisisaddy/Portfolio/blob/master/src/images/Trello_demo.gif" width=600/>
+<img src="https://github.com/lookthisisaddy/Portfolio/blob/master/src/images/main.png" width=480/>
+<img src="https://github.com/lookthisisaddy/Portfolio/blob/master/src/images/addcard.png" width=480/>
+<img src="https://github.com/lookthisisaddy/Portfolio/blob/master/src/images/editcard.png" width=480/>
+<img src="https://github.com/lookthisisaddy/Portfolio/blob/master/src/images/dnd.png" width=480/>
 
 ## Features
 - The state is maintained after refresh.
