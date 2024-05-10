@@ -13,6 +13,7 @@ const Main = () => {
     editMode: false,
     editedCardId: null,
   });
+  
   const [titleError, setTitleError] = useState("");
   const [descriptionError, setDescriptionError] = useState("");
   const [dropDownError, setDropDownError] = useState("");
